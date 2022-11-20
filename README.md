@@ -15,7 +15,7 @@ This game is made in REACT with a personal touch and animations. The main idea o
 
 ## Setup and usage
 
-Live page here
+Live page [here](https://codelamat.github.io/Speedgame/)
 
 ## Screenshot
 
