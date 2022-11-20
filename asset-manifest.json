@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/speedgame/static/css/main.5d34735d.css",
+    "main.js": "/speedgame/static/js/main.9cc313ca.js",
+    "static/media/pizza.jpg": "/speedgame/static/media/pizza.2624bd0784bd961099d5.jpg",
+    "static/media/tomato.jpg": "/speedgame/static/media/tomato.9df0b31d98c6813461a1.jpg",
+    "static/media/game_start_sound.wav": "/speedgame/static/media/game_start_sound.21fc89b0e5b20293d9a6.wav",
+    "static/media/high_score_sound.wav": "/speedgame/static/media/high_score_sound.a7022fca9be01d175603.wav",
+    "static/media/medium_score_sound.wav": "/speedgame/static/media/medium_score_sound.445799472810c8e69c18.wav",
+    "static/media/Click_sound.wav": "/speedgame/static/media/Click_sound.80f01a1b0371515f5a79.wav",
+    "static/media/ohNo.mp3": "/speedgame/static/media/ohNo.2f7c22f2e29ee5b9d2c9.mp3",
+    "index.html": "/speedgame/index.html",
+    "main.5d34735d.css.map": "/speedgame/static/css/main.5d34735d.css.map",
+    "main.9cc313ca.js.map": "/speedgame/static/js/main.9cc313ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d34735d.css",
+    "static/js/main.9cc313ca.js"
+  ]
+}
