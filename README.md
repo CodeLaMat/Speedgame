@@ -1,6 +1,6 @@
 # SpeedGame:
 
-## Short discription
+## Short description
 
 This game is made in REACT with a personal touch and animations. The main idea of the game is to click on the emerging pizzas as fast as possible. You have 3 chances to fail in every time you play. You get different messages every time depending on you points.
 
